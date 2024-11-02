@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-6 flex gap-6">
+  <div class="common-social-links flex gap-6 items-center justify-center">
     <a
       title="关注我的X"
       href="https://bing.com"
@@ -26,3 +26,9 @@
     </a>
   </div>
 </template>
+
+<style>
+.common-social-links {
+  height: 40px;
+}
+</style>
