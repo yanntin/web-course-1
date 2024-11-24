@@ -3,7 +3,7 @@
       <FeaturesWaitlistLabelMini />
       <CommonTitlePrimary />
       <FeaturesWaitlistBoxContainer>
-        <p class="text-white/70 text-lg mb-4">I am a waitlist page</p>
+        <ContentDoc class="text-gray-300 my-12" />
         <UButton
         to="/"
         class="px-6 bg-white/30 text-white hover:bg-white/50 transition-colors duration-300 relative z-10"

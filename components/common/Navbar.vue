@@ -7,6 +7,8 @@
         <NuxtLink to="/links" class="text-white/70 hover:text-white">links</NuxtLink>
         <div class="w-[1px] h-4 bg-white/30"></div>
         <NuxtLink to="/about" class="text-white/70 hover:text-white">about</NuxtLink>
+        <div class="w-[1px] h-4 bg-white/30"></div>
+        <NuxtLink to="/news" class="text-white/70 hover:text-white">news</NuxtLink>
       </nav>
     </div>
   </div>
